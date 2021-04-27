@@ -1,1 +1,1 @@
-# Live-Price-Comaprision-Using-Python-Django
+# Live-Price-comparison-Using-Python-Django
